@@ -1,0 +1,10 @@
+---
+application:
+  nom: App1
+  process:
+    used library: library
+    quality: qualité
+    tools: tool
+  server:
+    port number: 8080
+    host url: url

@@ -1,0 +1,26 @@
+{
+    "applications":[{
+        "name":"App1",
+        "development process":{
+            "used test library":"library",
+            "quality":"qualité",
+            "versioning tools":"tool"
+        },
+        "deployment server":{
+            "port number":8080,
+            "host url":"url"
+        }
+    },
+    {
+        "name":"App2",
+        "development process":{
+            "used test library":"library",
+            "quality":"qualité",
+            "versioning tools":"tool"
+        },
+        "deployment server":{
+            "port number":8080,
+            "host url":"url"
+        }
+    }]
+}
